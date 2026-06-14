@@ -57,10 +57,6 @@ npm install
 4️⃣ Start the development server
 npm run dev
 
-<img width="771" height="511" alt="Screenshot 2026-06-14 at 2 07 02 PM" src="https://github.com/user-attachments/assets/552f68ec-bc51-4d5c-a5b0-850123a79823" />
-<img width="870" height="845" alt="Screenshot 2026-06-14 at 2 00 47 PM" src="https://github.com/user-attachments/assets/996e1699-fc18-4eb9-b734-55f710f9744e" />
-<img width="798" height="472" alt="Screenshot 2026-06-14 at 2 00 00 PM" src="https://github.com/user-attachments/assets/2f524aa8-18e9-458e-bb4e-9cf8010ec45f" />
-
 🎯 Goals of This Repo
 Improve React fundamentals
 Build real-world UI projects
